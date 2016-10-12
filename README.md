@@ -1,6 +1,6 @@
 # assisted.by WP
 
-assisted by WP is our WordPress starter repository. The starting place for all our WordPress development.
+assisted.by WP is our WordPress starter repository. The starting place for all our WordPress development.
 
 ## Information
 
